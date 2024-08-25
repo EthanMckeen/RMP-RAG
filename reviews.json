@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Thompson",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Thompson's lectures are engaging and informative. She makes complex topics easy to understand."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Brilliant professor! His passion for coding is contagious. Challenging but rewarding classes."
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Interesting material, but lectures can be a bit disorganized. Office hours are helpful."
+      },
+      {
+        "professor": "Prof. David Williams",
+        "subject": "History",
+        "stars": 4,
+        "review": "Prof. Williams brings history to life with his storytelling. Assignments are thought-provoking."
+      },
+      {
+        "professor": "Dr. Lisa Rodriguez",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Excellent teacher! Dr. Rodriguez explains complex concepts clearly and is always willing to help."
+      },
+      {
+        "professor": "Prof. Robert Taylor",
+        "subject": "Mathematics",
+        "stars": 2,
+        "review": "Difficult to follow in class. Concepts aren't explained well, and there's little support outside of lectures."
+      },
+      {
+        "professor": "Dr. Jennifer Lee",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Dr. Lee's passion for literature is evident. Discussions are lively and insightful."
+      },
+      {
+        "professor": "Prof. Alexander Novak",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Brilliant physicist and educator. Makes complex theories accessible and interesting."
+      },
+      {
+        "professor": "Dr. Maria Garcia",
+        "subject": "Sociology",
+        "stars": 3,
+        "review": "Interesting course content, but lectures can be dry. Dr. Garcia is knowledgeable but not very engaging."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Prof. Wilson relates economic theories to real-world situations effectively. Challenging but fair exams."
+      },
+      {
+        "professor": "Dr. Olivia Brown",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Brown's enthusiasm for art is infectious. Her lectures are like guided tours through time."
+      },
+      {
+        "professor": "Prof. Thomas Anderson",
+        "subject": "Philosophy",
+        "stars": 2,
+        "review": "Lectures are confusing and abstract. Prof. Anderson seems disinterested in student questions."
+      },
+      {
+        "professor": "Dr. Michelle Patel",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. Patel brings current environmental issues into focus. Field trips are a highlight of the course."
+      },
+      {
+        "professor": "Prof. Daniel Kim",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Knowledgeable professor, but can be biased in presentations. Encourages debate, which is good."
+      },
+      {
+        "professor": "Dr. Rachel Green",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Fantastic professor! Dr. Green makes language study fascinating and accessible."
+      },
+      {
+        "professor": "Prof. Christopher Lee",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Prof. Lee brings real-world experience to the classroom. Practical and informative lectures."
+      },
+      {
+        "professor": "Dr. Samantha White",
+        "subject": "Anthropology",
+        "stars": 3,
+        "review": "Interesting subject matter, but Dr. White's teaching style can be a bit monotonous."
+      },
+      {
+        "professor": "Prof. Kevin O'Brien",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Prof. O'Brien is a musical genius. His passion for music theory is inspiring and contagious."
+      },
+      {
+        "professor": "Dr. Laura Martinez",
+        "subject": "Neuroscience",
+        "stars": 4,
+        "review": "Dr. Martinez explains complex brain functions clearly. Labs are well-organized and informative."
+      },
+      {
+        "professor": "Prof. Andrew Clark",
+        "subject": "Statistics",
+        "stars": 2,
+        "review": "Lectures are hard to follow. Prof. Clark moves too quickly through difficult concepts."
+      }
+    ]
+  }
