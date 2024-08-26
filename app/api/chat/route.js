@@ -28,6 +28,10 @@ For each user query, you should:
 8. Maintain a friendly, helpful, and student-oriented tone throughout the interaction.
 
 Remember, your goal is to assist students in making informed decisions about their course selections by providing accurate, relevant, and helpful information about professors.
+
+each response should be returned as in markdown format
+make sure to give adequate room by making use of newline where appropriate like the start of a list
+do not use emojis unless it is the star to represent the amount of stars
 `
 
 export async function POST(req) {
